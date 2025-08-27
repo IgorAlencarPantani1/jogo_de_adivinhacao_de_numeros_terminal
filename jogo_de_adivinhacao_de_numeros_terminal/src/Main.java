@@ -20,5 +20,6 @@ public class Main {
             }
         } while (vadilacao!=1);
         System.out.println("Fim");
+        leitor.close();
     }
 }
